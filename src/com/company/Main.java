@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
         String msg;
-        msg = "Hello World";
+        msg = "Hello GIT";
         System.out.println(msg);
 
         msg = "Привет Мир";
